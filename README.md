@@ -6,4 +6,4 @@
 
 ## App
 
-CLICK: https://shopping-list-app.netlify.app (Netlify)
+CLICK: https://shopping-list-vite.netlify.app (Netlify)
